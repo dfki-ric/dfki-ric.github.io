@@ -8,6 +8,9 @@ title: Open Source Software contributions
 
 The DFKI-RIC also contributes to Software not listed in the [Organisation](https://github.com/dfki-ric):
 
+Please visit us on out [Homepage]( https://robotik.dfki-bremen.de)
+
+
 ## Rock - The Robot Construction Kit
 
 [https://rock-robotics.org](https://rock-robotics.org)
