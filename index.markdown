@@ -5,15 +5,9 @@
 layout: home
 ---
 
-# The DFKI-RIC Homepage
-
-For general information about the 
-[https://robotik.dfki-bremen.de](https://robotik.dfki-bremen.de/en/startpage.html)
-
-
 # Open Source Software contributions
 
-The DFKI-RIC also contributes to Software not listed in this Organisation:
+The DFKI-RIC also contributes to Software not listed in the [Organisation](https://github.com/dfki-ric):
 
 ## Rock - The Robot Construction Kit
 
@@ -23,8 +17,9 @@ The DFKI-RIC also contributes to Software not listed in this Organisation:
 
 ## Mars - Robot Simulation
 
-[https://rock-simulation.github.io](https://rock-simulation.github.io)
+[https://rock-simulation.github.io/mars/](https://rock-simulation.github.io/mars/)
 
 
 ## PySpace
 
+[http://pyspace.github.io/pyspace/](http://pyspace.github.io/pyspace/)

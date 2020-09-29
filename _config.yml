@@ -22,16 +22,16 @@ title: DFKI - Robotics Innovation Center
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is a list of open source software the DFKI-RIC maintains or is contributing to.
-  For more information about the DFKI-RIC please visit [https://robotik.dfki-bremen.de/en/startpage.html](https://robotik.dfki-bremen.de/en/startpage.html)
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://dfki-ric.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://dfki-ric.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: DFKI
 github_username:  dfki-ric
 
+
 # Build settings
 theme: minima
-plugins:
-  - jekyll-feed
+#plugins:
+#  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.

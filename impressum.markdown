@@ -6,12 +6,11 @@ permalink: /Imprint/
 <div>
 <p>
 <b>This page gives contact information about the people maintaining the web site and the organization hosting it.</b><br/><br/>
-Rock is an Open Source project, it is maintained by many more people with different affiliations.
 </p>
 
 <h2>Contact for content issues</h2>
+<a href="mailto:steffen.planthaber@dfki.de">Steffen Planthaber, steffen.planthaber&#064;dfki.de</a><br/>
 <a href="mailto:thomas.roehr@dfki.de">Thomas Roehr, thomas.roehr&#064;dfki.de</a><br/>
-<a href="mailto:sylvain.joyeux@m4x.org">Sylvain Joyeux, sylvain.joyeux&#064;m4x.org</a>
 
 <h2>Data Protection Notice</h2>
 The German Research Center for Artificial Intelligence (Deutsches
@@ -41,50 +40,12 @@ of the DFKI Establishment of contact and correspondence with visitors and users
 Visit and usage of our web site are anonymous. At our web site personal data are
 only collected to the technically necessary extent.
 <br/><br/>
-Within our information offering we do embed
-information or service offerings of the social networking website Tumblr.
-The interaction with the website will transmit data to Tumblr as part of
-their blog services.
-For more information about Tumblr's data processing, please refer to Tumblr's
-Privacy Policy <a href="https://www.tumblr.com/privacy">here</a>.
-
-<br/><br/>
-Within our information offering we do embed
-information or service offerings of the website Youtube.
-The interaction with the our website will transmit data to Youtube as part of
-their services.
-For more information about Youtube's data processing, please refer to Youtube's
-Privacy Policy <a href="https://policies.google.com/privacy">here</a>.
-
-
-<h2>Newsletter usage</h2>
-This website embeds a redirection to DFKI's Mailman service.
-Any registration will subsequently be based on DFKI's data policies as found
-<a href="https://www.dfki.de/web/data-protection-en">here</a><br/>
-
-The newsletter service in particular requires to store your transmitted name and e-mail in combination with
-settings for your delivery preferences. 
-The processing of the data is lawful because it is necessary for the purpose of
-maintaining the newsletter service for you. You can at any time unsubscribe or
-request the removal from this service.<br/>
-
-For registration and deregistration please visit:<br/>
-<ul>
-<li>rock-dev: <a
-href="http://www.dfki.de/mailman/cgi-bin/listinfo/rock-dev">http://www.dfki.de/mailman/cgi-bin/listinfo/rock-dev</a></li>
-<li>rock-users: <a href="http://www.dfki.de/mailman/cgi-bin/listinfo/rock-users">http://www.dfki.de/mailman/cgi-bin/listinfo/rock-users</a></li>
-</ul>
 
 <h2>Hosting Server</h2>
 This website is hosted with <a href="https://github.com">Github</a>.
 For more information about github's data processing and contacts, please refer to the
 Privacy Policy <a href="https://help.github.com/en/articles/github-privacy-statement">here</a>.
 
-<h2>Access data</h2>
-On every access to our web site some usage, transmission and connection data
-will be collected by our Hosting Contractor Goserver.
-For more information about Goserver's data processing, please refer to
-Goserver's Privacy Policy <a href="https://www.goserver.de/privacy-webtracking">here</a>.
 
 <h2>Correspondence</h2>
 You have the option to contact us by e-mail. We will use your e-mail address and
