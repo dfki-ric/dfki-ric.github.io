@@ -33,8 +33,10 @@ logo: https://avatars2.githubusercontent.com/u/37366708?s=200&v=4
 # Build settings
 theme: minima
 header_pages:
-  - impressum.md
-#plugins:
+#  - index.markdown
+  - impressum.markdown
+
+  #plugins:
 #  - jekyll-feed
 
     
