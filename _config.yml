@@ -26,12 +26,18 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dfki-ric.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: DFKI
 github_username:  dfki-ric
+youtube_username: dfkivideo
+logo: https://avatars2.githubusercontent.com/u/37366708?s=200&v=4
 
 
 # Build settings
 theme: minima
-plugins:
-  - jekyll-feed
+header_pages:
+  - impressum.md
+#plugins:
+#  - jekyll-feed
+
+    
 
 # Exclude from processing.
 # The following items will not be processed, by default.
