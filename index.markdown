@@ -3,9 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Open Source Software contributions
 ---
-
-# Open Source Software contributions
 
 The DFKI-RIC also contributes to Software not listed in the [Organisation](https://github.com/dfki-ric):
 
