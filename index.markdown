@@ -40,3 +40,7 @@ Please visit us on our [Homepage]( https://robotik.dfki-bremen.de)
 ## EnviRe - Environment Representation
 
 [https://github.com/envire](https://github.com/envire)
+
+## PAZ - Perception for Autonomous Systems
+
+[https://github.com/oarriaga/paz](https://github.com/oarriaga/paz)
