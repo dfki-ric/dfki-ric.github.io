@@ -29,6 +29,7 @@ Rock is a middleware for robotic software development. It has a large infrastruc
 * [https://github.com/rock-data-processing](https://github.com/rock-data-processing)
 * [https://github.com/rock-tutorials](https://github.com/rock-tutorials)
 * [https://github.com/rock-bundles](https://github.com/rock-bundles)
+* [https://github.com/rock-knowledge-reasoning/](https://github.com/rock-knowledge-reasoning/)
 
 ## Mars - Robot Simulation
 
