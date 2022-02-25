@@ -51,4 +51,8 @@ EnviRe can be used to represent information of the environment for a robotic sys
 
 PAZ is a hierarchical perception library based on deep learning.
 
-[https://github.com/oarriaga/paz](https://github.com/oarriaga/paz)
+## ARC-OPT - Adaptive Robot Control using Optimization
+
+ARC-OPT is a collection of tools for optimization-based control of robotic systems.
+
+[https://github.com/ARC-OPT](https://github.com/ARC-OPT)
