@@ -3,19 +3,18 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Open Source Software contributions
+title: Open Source Software Contributions
 ---
 
-The DFKI-RIC also contributes to Software not listed in the [Organisation](https://github.com/dfki-ric)
+This is a list of open source software to which the DFKI Robotics Innovation Center contributes outside of the GitHub organisation [dfki-ric](https://github.com/dfki-ric).
 
-Please visit us: [https://robotik.dfki-bremen.de]( https://robotik.dfki-bremen.de)
+Please visit our website: [https://robotik.dfki-bremen.de]( https://robotik.dfki-bremen.de)
 
 
-## Rock - The Robot Construction Kit
+## Rock - Robot Construction Kit
 
-Rock is a middleware for robotic software development. It has a large infrastructure and modules are distributed over several GitHub organizations.
+Rock is a middleware for robotic software development (website: [https://rock-robotics.org](https://rock-robotics.org)). It has a large infrastructure and modules are distributed over these GitHub organizations:
 
-* [https://rock-robotics.org](https://rock-robotics.org)
 * [https://github.com/rock-core](https://github.com/rock-core)
 * [https://github.com/rock-gui](https://github.com/rock-gui)
 * [https://github.com/rock-drivers](https://github.com/rock-drivers)
@@ -31,7 +30,9 @@ Rock is a middleware for robotic software development. It has a large infrastruc
 * [https://github.com/rock-bundles](https://github.com/rock-bundles)
 * [https://github.com/rock-knowledge-reasoning/](https://github.com/rock-knowledge-reasoning/)
 
-## Mars - Robot Simulation
+## MARS - Robot Simulation
+
+MARS is a cross-platform simulation and visualisation tool created for robotics research.
 
 [https://rock-simulation.github.io/mars/](https://rock-simulation.github.io/mars/)
 
@@ -50,6 +51,8 @@ EnviRe can be used to represent information of the environment for a robotic sys
 ## PAZ - Perception for Autonomous Systems
 
 PAZ is a hierarchical perception library based on deep learning.
+
+[https://github.com/oarriaga/paz](https://github.com/oarriaga/paz)
 
 ## ARC-OPT - Adaptive Robot Control using Optimization
 
