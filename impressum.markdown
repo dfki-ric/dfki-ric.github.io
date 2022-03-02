@@ -10,7 +10,6 @@ permalink: /Imprint/
 
 <h2>Contact for content issues</h2>
 <a href="mailto:steffen.planthaber@dfki.de">Steffen Planthaber, steffen.planthaber&#064;dfki.de</a><br/>
-<a href="mailto:thomas.roehr@dfki.de">Thomas Roehr, thomas.roehr&#064;dfki.de</a><br/>
 
 <h2>Data Protection Notice</h2>
 The German Research Center for Artificial Intelligence (Deutsches
