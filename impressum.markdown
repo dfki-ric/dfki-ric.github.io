@@ -72,24 +72,4 @@ You have the right to lodge a complaint with a supervisory authority if you
 consider that the processing of your personal data infringes statutory data
 protection regulations.
 
-<h2>Deutsches Forschungszentrum f&uuml;r K&uuml;nstliche Intelligenz GmbH</h2>
-    <p>
-	<b>Standort Bremen<br />Robotics Innovation Center<br /></b>
-	Robert-Hooke-Str. 1<br />
-	28359 Bremen<br />
-	Telefon: +49 (0)421 / 178 45 - 0<br />
-	Telefax: +49 (0)421 / 178 45 - 4150<br />
-	E-Mail: <a href="mailto:robotik@dfki.de">robotik&#064;dfki.de</a><br />
-	Leitung: Prof. Dr. Dr. h.c. Frank Kirchner
-    </p>
-    <p>
-    <b>Geschäftsführung:</b><br />
-    Prof. Dr. Antonio Krüger<br />
-    <br />
-    <b>Vorsitzender des Aufsichtsrates:</b><br />
-    Dr. Ferri Abolhassan<br /><br />
-    <b>Registergericht:</b> Amtsgericht Kaiserslautern<br />
-    <b>Registernummer:</b> HRB 2313<br />
-    <b>ID-Nummer:</b> DE 148 646 973
-    </p>
-</div>
+[Legal information](https://robotik.dfki-bremen.de/en/legal-information.html)
