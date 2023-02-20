@@ -72,4 +72,5 @@ You have the right to lodge a complaint with a supervisory authority if you
 consider that the processing of your personal data infringes statutory data
 protection regulations.
 
-[Legal information](https://robotik.dfki-bremen.de/en/legal-information.html)
+<h2>Legal information</h2>
+<a href="https://robotik.dfki-bremen.de/en/legal-information.html">Link</a>
